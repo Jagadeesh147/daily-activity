@@ -2,4 +2,4 @@ Daily Activity Repo
 
 Update today
 
-show contribution for today is 4
+Update contribution today into 4
